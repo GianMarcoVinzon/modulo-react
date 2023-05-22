@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow:scroll
+}
+.box{
+    width: 12rem;
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    /* text-align: center; */
+}
+.imgProducts{
+    width: 12rem;
+    
+}
